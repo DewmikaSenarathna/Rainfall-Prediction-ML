@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-readme_content = """
 # 🌧️ Rainfall Prediction Using Machine Learning  
 
 ## 📌 Project Overview
@@ -125,12 +123,3 @@ Models are evaluated using:
 
 ---
 <br>
-
-
-=======
-Rainfall Prediction using Machine Learning
-
-This project is a machine learning model to predict rainfall based on historical weather data.
-
-The project is currently under development. The goal is to train and evaluate different ML models and improve prediction accuracy.
->>>>>>> cf71d5221835d81a41b8083bec4203b1f57c5edf
