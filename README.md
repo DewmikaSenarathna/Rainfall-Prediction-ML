@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-readme_content = """
 # 🌧️ Rainfall Prediction Using Machine Learning  
 
 ## 📌 Project Overview
@@ -71,6 +69,13 @@ Rainfall_Prediction_ML/
 │   ├── LogisticRegression_model.pkl
 │   ├── RandomForestClassifier_model.pkl
 │   ├── SVC_model.pkl
+├── models/
+│   ├── DecisionTreeClassifier_model.pkl
+│   ├── GaussianNB_model.pkl
+│   └── KNeighborsClassifier_model.pkl
+│   └── LogisticRegression_model.pkl
+│   └── RandomForestClassifier_model.pkl
+│   └── SVC_model.pkl
 │   └── XGBClassifier_model.pkl
 │
 ├── reports/
@@ -84,6 +89,12 @@ Rainfall_Prediction_ML/
 │   ├── LogisticRegression_confusion_matrix
 │   ├── RandomForestClassifier_confusion_matrix
 │   ├── SVC_confusion_matrix
+│   └── DecisionTreeClassifier_confusion_matrix
+│   └── GaussianNB_confusion_matrix
+│   └── KNeighborsClassifier_confusion_matrix
+│   └── LogisticRegression_confusion_matrix
+│   └── RandomForestClassifier_confusion_matrix
+│   └── SVC_confusion_matrix
 │   └── XGBClassifier_confusion_matrix
 │
 └── README.md
