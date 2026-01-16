@@ -145,11 +145,11 @@ Models are evaluated using:
 
 ## 🧩 UI Features
 
-Model selection (XGBoost, Random Forest, SVM, etc.)
-8-feature weather input form
-Real-time prediction
-Probability score display
-Clean and professional layout
+- Model selection (XGBoost, Random Forest, SVM, etc.)
+- 8-feature weather input form
+- Real-time prediction
+- Probability score display
+- Clean and professional layout
 
 ---
 <br>
