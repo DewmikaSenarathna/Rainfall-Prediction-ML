@@ -159,7 +159,7 @@ Models are evaluated using:
 
 ```bash
 # Navigate to the application directory
-cd Rainfall_Prediction_ML/main
+cd Rainfall-Prediction-ML/main
 
 # Run the Streamlit application
 streamlit run app.py
