@@ -68,7 +68,7 @@ Rainfall_Prediction_ML/
 │
 ├── reports/
 │   ├── classification_reports.txt
-│   ├── roc_auc_scores.txt
+│   └── roc_auc_scores.txt
 │
 ├── figures/
 │   └── DecisionTreeClassifier_confusion_matrix
